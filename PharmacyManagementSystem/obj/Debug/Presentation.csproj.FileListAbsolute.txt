@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.LogIn.resources
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Registration.resources
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\bin\Debug\DataAccess.dll
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\bin\Debug\DataAccess.pdb
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Dashboard.resources
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\ACER\Desktop\Pharmacy management system\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.View.resources
